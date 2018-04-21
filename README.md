@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(4 20, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Gabriel Gomez)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(The goal of this assignment was to create a movie index )
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://gabsteve23.github.io/lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
+1. (One lesson I learned was how to use an API)
+2. (Another lesson I learned was how to properly reference for an API.)
 3. (Briefly describe a lesson/concept learned in this lesson.)
